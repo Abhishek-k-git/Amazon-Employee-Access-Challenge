@@ -18,29 +18,17 @@ This is a sparse data set, less than 10% of the attributes are used for each sam
 |Class | Description|
 |--|--|
 |PERSON_ID | id of the user|
-|--|--|
 |PERSON_MGR_ID | id of the user's manager|
-|--|--|
 |PERSON_ROLLUP_1 | user grouping id|
-|--|--|
 |PERSON_ROLLUP_2 | user grouping id|
-|--|--|
 |PERSON_ROLLUP_3 | user grouping id|
-|--|--|
 |PERSON_DEPTNAME | department desciption id|
-|--|--|
 |PERSON_LOCATION | region id|
-|--|--|
 |PERSON_BUSINESS_TITLE | title id|
-|--|--|
 |PERSON_BUSINESS_TITLE_DETAIL | description id|
-|--|--|
 |PERSON_JOB_CODE | job code id|
-|--|--|
 |PERSON_COMPANY | company id|
-|--|--|
 |PERSON_JOB_FAMILY | job family id|
-|--|--|
 
 2. [RESOURCE_{ID}] This category of attributes are the resources that a users can possibly have access to. A user will have a 1 in this column if the have access to it otherwise it will be 0.
 
